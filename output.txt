@@ -1,0 +1,9 @@
+[B]
+Borkov;Yaroslav;Alexsandrovich;89209999999
+
+[S]
+Smirnov;Jorj;Sergeevich;+72223334455
+
+[U]
+Ustinov;Dima;Sergeevich;894699944444
+
